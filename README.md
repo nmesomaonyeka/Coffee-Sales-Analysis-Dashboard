@@ -32,7 +32,7 @@ The project was carried out using Excel's advanced analytical and visualization 
 4. **Customer Engagement**: Develop a loyalty program to retain high-value customers and encourage repeat purchases.
 
 ## How to Use
-1. Download the `coffeeSalesDashboard.xlsx` file from the `data/` folder.
+1. Download the <a href = "https://github.com/nmesomaonyeka/Coffee-Sales-Analysis-Dashboard/commit/3308f9153e9100a0ae44f927c3d3d48a13c8a4fc">Dataset</a>
 2. Open the file in Microsoft Excel.
 3. Use the dashboard to interact with the visualizations and explore insights.
 
