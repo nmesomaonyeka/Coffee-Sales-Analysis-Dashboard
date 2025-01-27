@@ -19,6 +19,10 @@ The project was carried out using Excel's advanced analytical and visualization 
 - Creation of pivot tables for summarizing data.
 - Dashboard design using Excel visualization tools.
 
+## Dashboard
+![coffe dashborad](https://github.com/user-attachments/assets/6df0e607-fc68-4dd0-b01d-a2890176fdf1)
+
+
 ## Results
 1. **Revenue by Product**: Espresso-based beverages generated the highest revenue, followed by cold brews and seasonal specials.
 2. **Regional Trends**: The West region consistently outperformed other regions in terms of total sales, while the East region showed steady growth.
